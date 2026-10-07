@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 180" width="100%">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="50%" stop-color="#0a0204"/>
+      <stop offset="100%" stop-color="#030001"/>
+    </linearGradient>
+    <linearGradient id="redAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4a0008"/>
+      <stop offset="50%" stop-color="#bb0018"/>
+      <stop offset="100%" stop-color="#4a0008"/>
+    </linearGradient>
+    <filter id="crimsonSoft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="920" height="180" rx="6" fill="url(#cardBg)" stroke="#1f0307" stroke-width="1.5"/>
+  <rect x="6" y="6" width="908" height="168" rx="4" fill="none" stroke="#0f0f0f" stroke-width="1"/>
+
+  <!-- Center divider with crosses -->
+  <line x1="460" y1="20" x2="460" y2="160" stroke="#2b0008" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <circle cx="460" cy="90" r="14" fill="#080002" stroke="#55000f" stroke-width="1.2"/>
+  <text x="460" y="95" text-anchor="middle" fill="#ff1a35" font-size="14" font-family="serif" filter="url(#crimsonSoft)">✟</text>
+
+  <!-- LEFT: Java OOP Pillar -->
+  <g transform="translate(40, 30)">
+    <!-- Header -->
+    <text x="0" y="20" fill="#aa0015" font-size="11" font-family="monospace" letter-spacing="2">✟ PILLAR_01 // CORE</text>
+    <text x="0" y="45" fill="#f0f0f0" font-size="20" font-family="'JetBrains Mono', monospace" font-weight="bold">PROGRAMACIÓN ORIENTADA A OBJETOS</text>
+    <text x="0" y="66" fill="#888888" font-size="13" font-family="monospace">Lenguaje Base: <tspan fill="#ff3344" font-weight="bold">Java (JVM)</tspan></text>
+    <!-- Bullets -->
+    <text x="0" y="94" fill="#666666" font-size="11" font-family="monospace">
+      <tspan fill="#ff1a35">†</tspan> Abstracción, Encapsulamiento, Herencia, Polimorfismo
+    </text>
+    <text x="0" y="112" fill="#666666" font-size="11" font-family="monospace">
+      <tspan fill="#ff1a35">†</tspan> Patrones GoF, Principios SOLID &amp; Clean Architecture
+    </text>
+    <text x="0" y="130" fill="#666666" font-size="11" font-family="monospace">
+      <tspan fill="#ff1a35">†</tspan> Concurrencia, Streams, Robustez &amp; Tipado Fuerte
+    </text>
+  </g>
+
+  <!-- RIGHT: Cybersecurity Pillar -->
+  <g transform="translate(500, 30)">
+    <!-- Header -->
+    <text x="0" y="20" fill="#aa0015" font-size="11" font-family="monospace" letter-spacing="2">✟ PILLAR_02 // OPERATIVE</text>
+    <text x="0" y="45" fill="#f0f0f0" font-size="20" font-family="'JetBrains Mono', monospace" font-weight="bold">CIBERSEGURIDAD &amp; AUDITORÍA</text>
+    <text x="0" y="66" fill="#888888" font-size="13" font-family="monospace">Enfoque: <tspan fill="#ff3344" font-weight="bold">Red Team &amp; Hardening</tspan></text>
+    <!-- Bullets -->
+    <text x="0" y="94" fill="#666666" font-size="11" font-family="monospace">
+      <tspan fill="#ff1a35">†</tspan> Pentesting, Reconocimiento &amp; Análisis de Vulnerabilidades
+    </text>
+    <text x="0" y="112" fill="#666666" font-size="11" font-family="monospace">
+      <tspan fill="#ff1a35">†</tspan> Protocolos de Red, Packet Crafting, Traffic Inspection
+    </text>
+    <text x="0" y="130" fill="#666666" font-size="11" font-family="monospace">
+      <tspan fill="#ff1a35">†</tspan> Secure Coding, Defensive Engineering &amp; Linux Hardening
+    </text>
+  </g>
+</svg>

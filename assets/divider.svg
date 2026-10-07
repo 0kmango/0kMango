@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 28" width="100%">
+  <defs>
+    <linearGradient id="fadeLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#3b0008" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#ff1a35" stop-opacity="1"/>
+      <stop offset="75%" stop-color="#3b0008" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="divGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <line x1="20" y1="14" x2="780" y2="14" stroke="url(#fadeLine)" stroke-width="1.2"/>
+  <circle cx="340" cy="14" r="1.5" fill="#880014"/>
+  <circle cx="460" cy="14" r="1.5" fill="#880014"/>
+  <g transform="translate(400, 14)">
+    <polygon points="0,-6 6,0 0,6 -6,0" fill="#ff1a35" filter="url(#divGlow)"/>
+    <polygon points="0,-3 3,0 0,3 -3,0" fill="#ffffff"/>
+  </g>
+  <text x="375" y="18" fill="#aa0015" font-size="12" text-anchor="middle" font-family="serif">✟</text>
+  <text x="425" y="18" fill="#aa0015" font-size="12" text-anchor="middle" font-family="serif">✟</text>
+</svg>

@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 280" width="100%" height="100%">
+  <defs>
+    <!-- Dark gothic gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="40%" stop-color="#0a0305"/>
+      <stop offset="70%" stop-color="#030002"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+
+    <linearGradient id="bloodGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4a0007"/>
+      <stop offset="35%" stop-color="#990014"/>
+      <stop offset="50%" stop-color="#ff1a35"/>
+      <stop offset="65%" stop-color="#990014"/>
+      <stop offset="100%" stop-color="#4a0007"/>
+    </linearGradient>
+
+    <linearGradient id="silverGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="45%" stop-color="#cccccc"/>
+      <stop offset="75%" stop-color="#777777"/>
+      <stop offset="100%" stop-color="#2a2a2a"/>
+    </linearGradient>
+
+    <linearGradient id="darkWire" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a0003" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#800010" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1a0003" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Crimson Glow Filter -->
+    <filter id="crimsonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle Scanlines Pattern -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#ff0022" stroke-width="0.3" stroke-opacity="0.08"/>
+      <line x1="0" y1="2" x2="100" y2="2" stroke="#000000" stroke-width="1.2" stroke-opacity="0.6"/>
+    </pattern>
+
+    <!-- Subtle Crosshair Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#220005" stroke-width="0.6" stroke-opacity="0.4"/>
+      <circle cx="20" cy="20" r="0.8" fill="#550010" opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <style>
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.75; }
+      50% { opacity: 1; }
+    }
+    @keyframes flicker {
+      0%, 100% { opacity: 0.95; }
+      92% { opacity: 0.95; }
+      93% { opacity: 0.6; }
+      94% { opacity: 0.95; }
+      96% { opacity: 0.4; }
+      97% { opacity: 0.95; }
+    }
+    .pulsing { animation: pulseGlow 4s ease-in-out infinite; }
+    .flickering { animation: flicker 7s infinite; }
+    .title-font {
+      font-family: 'Cinzel', 'UnifrakturMaguntia', 'Old English Text MT', 'Courier New', monospace, serif;
+      font-weight: 900;
+      letter-spacing: 14px;
+    }
+    .mono-font {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+      letter-spacing: 3px;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="920" height="280" rx="8" fill="url(#bgGrad)"/>
+  <rect width="920" height="280" rx="8" fill="url(#grid)"/>
+  <rect width="920" height="280" rx="8" fill="url(#scanlines)"/>
+
+  <!-- Ornate Outer Gothic Borders -->
+  <rect x="12" y="12" width="896" height="256" rx="6" fill="none" stroke="#2a050b" stroke-width="1.5"/>
+  <rect x="18" y="18" width="884" height="244" rx="4" fill="none" stroke="#121212" stroke-width="1"/>
+  <rect x="24" y="24" width="872" height="232" rx="2" fill="none" stroke="#520713" stroke-width="0.8" stroke-dasharray="8 4 2 4"/>
+
+  <!-- Top and Bottom Wire Lights -->
+  <line x1="60" y1="12" x2="860" y2="12" stroke="url(#darkWire)" stroke-width="2"/>
+  <line x1="60" y1="268" x2="860" y2="268" stroke="url(#darkWire)" stroke-width="2"/>
+
+  <!-- Corner Gothic Accents & Crosses -->
+  <!-- Top Left -->
+  <g transform="translate(32, 32)">
+    <path d="M 0 0 L 25 0 M 0 0 L 0 25" stroke="#880015" stroke-width="2" fill="none"/>
+    <text x="3" y="16" fill="#aa001a" font-size="14" font-family="serif">✟</text>
+  </g>
+  <!-- Top Right -->
+  <g transform="translate(888, 32)">
+    <path d="M 0 0 L -25 0 M 0 0 L 0 25" stroke="#880015" stroke-width="2" fill="none"/>
+    <text x="-14" y="16" fill="#aa001a" font-size="14" font-family="serif">✟</text>
+  </g>
+  <!-- Bottom Left -->
+  <g transform="translate(32, 248)">
+    <path d="M 0 0 L 25 0 M 0 0 L 0 -25" stroke="#880015" stroke-width="2" fill="none"/>
+    <text x="3" y="-5" fill="#aa001a" font-size="14" font-family="serif">✟</text>
+  </g>
+  <!-- Bottom Right -->
+  <g transform="translate(888, 248)">
+    <path d="M 0 0 L -25 0 M 0 0 L 0 -25" stroke="#880015" stroke-width="2" fill="none"/>
+    <text x="-14" y="-5" fill="#aa001a" font-size="14" font-family="serif">✟</text>
+  </g>
+
+  <!-- Central Gothic Halo / Seal (Subtle) -->
+  <g transform="translate(460, 125)" opacity="0.18">
+    <circle cx="0" cy="0" r="85" fill="none" stroke="#770010" stroke-width="1.2" stroke-dasharray="6 3"/>
+    <circle cx="0" cy="0" r="70" fill="none" stroke="#990014" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="50" fill="none" stroke="#440008" stroke-width="0.6"/>
+    <!-- Diagonal Cross in seal -->
+    <line x1="-60" y1="-60" x2="60" y2="60" stroke="#66000e" stroke-width="0.5"/>
+    <line x1="60" y1="-60" x2="-60" y2="60" stroke="#66000e" stroke-width="0.5"/>
+  </g>
+
+  <!-- Central Cross Ornament Above Title -->
+  <g transform="translate(460, 48)" text-anchor="middle" class="pulsing">
+    <text x="0" y="0" fill="#cc001f" font-size="22" filter="url(#crimsonGlow)">✟</text>
+    <text x="-65" y="-2" fill="#55000d" font-size="13">♰</text>
+    <text x="65" y="-2" fill="#55000d" font-size="13">♰</text>
+    <line x1="-150" y1="-6" x2="-80" y2="-6" stroke="#4a000b" stroke-width="1"/>
+    <line x1="80" y1="-6" x2="150" y2="-6" stroke="#4a000b" stroke-width="1"/>
+  </g>
+
+  <!-- MAIN TITLE: 00x -->
+  <!-- Shadow / Glow Layer -->
+  <text x="466" y="138" text-anchor="middle" class="title-font" font-size="78" fill="#4a0008" filter="url(#crimsonGlow)" opacity="0.9">00x</text>
+  <!-- Base Crimson Stroke -->
+  <text x="460" y="134" text-anchor="middle" class="title-font" font-size="78" fill="none" stroke="#6b000f" stroke-width="7" opacity="0.6">00x</text>
+  <!-- Foreground Crisp Text with Gradient -->
+  <text x="460" y="134" text-anchor="middle" class="title-font flickering" font-size="78" fill="url(#silverGrad)" stroke="#1a0004" stroke-width="1">00x</text>
+
+  <!-- Flanking Latin Crosses on the Title -->
+  <g transform="translate(235, 126)" text-anchor="middle">
+    <text x="0" y="0" fill="#8b0012" font-size="28" filter="url(#softGlow)">✟</text>
+    <text x="24" y="-3" fill="#3a0007" font-size="16">†</text>
+  </g>
+  <g transform="translate(685, 126)" text-anchor="middle">
+    <text x="-24" y="-3" fill="#3a0007" font-size="16">†</text>
+    <text x="0" y="0" fill="#8b0012" font-size="28" filter="url(#softGlow)">✟</text>
+  </g>
+
+  <!-- Subtitle Divider Line -->
+  <g transform="translate(460, 162)">
+    <line x1="-280" y1="0" x2="280" y2="0" stroke="url(#darkWire)" stroke-width="1.8"/>
+    <polygon points="0,-4 4,0 0,4 -4,0" fill="#ff1a35" filter="url(#softGlow)"/>
+    <circle cx="-100" cy="0" r="2" fill="#880014"/>
+    <circle cx="100" cy="0" r="2" fill="#880014"/>
+  </g>
+
+  <!-- SUBTITLE 1: POO EN JAVA & CIBERSEGURIDAD -->
+  <text x="460" y="188" text-anchor="middle" class="mono-font" font-size="13" font-weight="bold" fill="#e0e0e0">
+    <tspan fill="#ff2e49">✟</tspan>
+    <tspan fill="#ffffff"> JAVA OOP ARCHITECT </tspan>
+    <tspan fill="#66000f">|</tspan>
+    <tspan fill="#b8b8b8"> CYBERSECURITY RESEARCHER </tspan>
+    <tspan fill="#ff2e49">✟</tspan>
+  </text>
+
+  <!-- SUBTITLE 2: Edgy Latin / Cyber Quote -->
+  <text x="460" y="213" text-anchor="middle" class="mono-font" font-size="10.5" fill="#6e6e6e" letter-spacing="4px">
+    [ IN TENEBRIS COMPILAMUS • SECURITY IN DEPTH • EXPLOIT &amp; FORTIFY ]
+  </text>
+
+  <!-- Bottom System Status Tag Pill -->
+  <g transform="translate(460, 240)">
+    <rect x="-240" y="-12" width="480" height="22" rx="3" fill="#050102" stroke="#260408" stroke-width="1"/>
+    <text x="0" y="3" text-anchor="middle" class="mono-font" font-size="9" fill="#999999">
+      <tspan fill="#aa0015">ROOT@00x</tspan>
+      <tspan fill="#444444"> :~# </tspan>
+      <tspan fill="#cccccc">java -jar Core.jar --sec-profile=GOTHIC_DARK</tspan>
+      <tspan fill="#22dd55"> ●</tspan>
+    </text>
+  </g>
+</svg>
