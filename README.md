@@ -20,12 +20,12 @@
 
 ```text
        ✟ ───────────────────────────────────────────────────────────── ✟
-           ██████╗  ██████╗ ██╗  ██╗
-          ██╔═████╗██╔═████╗╚██╗██╔╝
-          ██║██╔██║██║██╔██║ ╚███╔╝ 
-          ████╔╝██║████╔╝██║ ██╔██╗ 
-          ╚██████╔╝╚██████╔╝██╔╝ ██╗
-           ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+                       ██████╗  ██████╗ ██╗  ██╗
+                      ██╔═████╗██╔═████╗╚██╗██╔╝
+                      ██║██╔██║██║██╔██║ ╚███╔╝ 
+                      ████╔╝██║████╔╝██║ ██╔██╗ 
+                      ╚██████╔╝╚██████╔╝██╔╝ ██╗
+                       ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
              ⸸  J A V A   O O P   //   S E C U R I T Y  ⸸
        ✟ ───────────────────────────────────────────────────────────── ✟
 ```
@@ -144,11 +144,11 @@ import architecture.oop.CleanArchitecture;
  */
 public final class ZeroZeroX extends Architect implements ExploitAuditor {
 
-    private final String alias      = "00x";
-    private final String operative  = "0kmango";
+    private final String alias        = "00x";
+    private final String operative    = "0kmango";
     private final String baseParadigm = "POO (Object-Oriented Programming)";
-    private final String language   = "Java";
-    private final String domain     = "Cybersecurity";
+    private final String language     = "Java";
+    private final String domain       = "Cybersecurity";
 
     public ZeroZeroX() {
         super(SecurityLevel.MAXIMUM);
