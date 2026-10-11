@@ -19,15 +19,15 @@
 </div>
 
 ```text
-                       ✟ ───────────────────────────────────────────────────────────── ✟
-                                             ██████╗  ██████╗ ██╗  ██╗
-                                            ██╔═████╗██╔═████╗╚██╗██╔╝
-                                            ██║██╔██║██║██╔██║ ╚███╔╝ 
-                                            ████╔╝██║████╔╝██║ ██╔██╗ 
-                                            ╚██████╔╝╚██████╔╝██╔╝ ██╗
-                                             ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-                                   ⸸  J A V A   O O P   //   S E C U R I T Y  ⸸
-                       ✟ ───────────────────────────────────────────────────────────── ✟
+                           ✟ ───────────────────────────────────────────────────────────── ✟
+                                                 ██████╗  ██████╗ ██╗  ██╗
+                                                ██╔═████╗██╔═████╗╚██╗██╔╝
+                                                ██║██╔██║██║██╔██║ ╚███╔╝ 
+                                                ████╔╝██║████╔╝██║ ██╔██╗ 
+                                                ╚██████╔╝╚██████╔╝██╔╝ ██╗
+                                                 ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+                                       ⸸  J A V A   O O P   //   S E C U R I T Y  ⸸
+                           ✟ ───────────────────────────────────────────────────────────── ✟
 ```
 
 <div align="center">
@@ -89,7 +89,7 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 </div>
 
-### ✟ ─── ❖ [ ARSENAL & HERRAMIENTAS // DARK STACK ] ❖ ─── ✟
+                    ### ✟ ─── ❖ [ ARSENAL & HERRAMIENTAS // DARK STACK ] ❖ ─── ✟
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
   <img src="https://img.shields.io/badge/CONCURRENCY-%23000000.svg?style=for-the-badge&logo=speedtest&logoColor=ff1a35" alt="Concurrency" />
 </p>
 
-#### ✟ CIBERSEGURIDAD, HACKING ÉTICO & AUDITORÍA ✟
+                    #### ✟ CIBERSEGURIDAD, HACKING ÉTICO & AUDITORÍA ✟
 <p>
   <img src="https://img.shields.io/badge/CYBERSECURITY-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=ff1a35" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/KALI_LINUX-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
@@ -112,7 +112,7 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
   <img src="https://img.shields.io/badge/METASPLOIT-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
 </p>
 
-#### ✟ SISTEMAS, INFRAESTRUCTURA & AUTOMATIZACIÓN ✟
+                  #### ✟ SISTEMAS, INFRAESTRUCTURA & AUTOMATIZACIÓN ✟
 <p>
   <img src="https://img.shields.io/badge/LINUX_KERNEL-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/BASH_SCRIPTING-%23000000.svg?style=for-the-badge&logo=gnubash&logoColor=ff1a35" alt="Bash" />
