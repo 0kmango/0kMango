@@ -20,13 +20,13 @@
 
 ```text
        ✟ ───────────────────────────────────────────────────────────── ✟
-                       ██████╗  ██████╗ ██╗  ██╗
-                      ██╔═████╗██╔═████╗╚██╗██╔╝
-                      ██║██╔██║██║██╔██║ ╚███╔╝ 
-                      ████╔╝██║████╔╝██║ ██╔██╗ 
-                      ╚██████╔╝╚██████╔╝██╔╝ ██╗
-                       ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-             ⸸  J A V A   O O P   //   S E C U R I T Y  ⸸
+                             ██████╗  ██████╗ ██╗  ██╗
+                            ██╔═████╗██╔═████╗╚██╗██╔╝
+                            ██║██╔██║██║██╔██║ ╚███╔╝ 
+                            ████╔╝██║████╔╝██║ ██╔██╗ 
+                            ╚██████╔╝╚██████╔╝██╔╝ ██╗
+                             ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+                   ⸸  J A V A   O O P   //   S E C U R I T Y  ⸸
        ✟ ───────────────────────────────────────────────────────────── ✟
 ```
 
@@ -44,7 +44,7 @@
 
 ### ✟ ─── ❖ [ DOSSIER // MANIFIESTO DEL SISTEMA ] ❖ ─── ✟
 
-> *"El código no es solo una secuencia de instrucciones, es una fortaleza construida en la oscuridad. Cada clase un bastión, cada interfaz un contrato inquebrantable, y cada byte auditado contra la intrusión."*
+> *"0kMangoo."*
 
 ```ini
 [CONFIDENTIAL // CLASSIFIED DOSSIER]
@@ -53,8 +53,7 @@
 ✟ ARCHITECTURE  : Programación Orientada a Objetos (POO)
 ✟ CORE LANGUAGE : Java (JVM Ecosystem)
 ✟ SPECIALTY     : Ciberseguridad Ofensiva & Defensiva, Pentesting, Hardening
-✟ ENVIRONMENT   : Linux (Kali Linux / Arch / Custom Unix Workstations)
-✟ PHILOSOPHY    : Abstracción pura en la luz, explotación precisa en las sombras
+✟ ENVIRONMENT   : Linux (Kali Linux / Arch)
 ```
 
 <br/>
@@ -182,7 +181,7 @@ public final class ZeroZeroX extends Architect implements ExploitAuditor {
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 </div>
 
-### ✟ ─── ❖ [ TELEMETRÍA // GOTHIC RECON STATS ] ❖ ─── ✟
+### ✟ ─── ❖ [ TELEMETRÍA // RECON STATS ] ❖ ─── ✟
 
 <div align="center">
 
