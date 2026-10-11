@@ -167,18 +167,15 @@
     <circle cx="100" cy="0" r="2" fill="#880014"/>
   </g>
 
-  <!-- SUBTITLE 1: POO EN JAVA & CIBERSEGURIDAD -->
-  <text x="460" y="188" text-anchor="middle" class="mono-font" font-size="13" font-weight="bold" fill="#e0e0e0">
+  <!-- SUBTITLE: Java OOP Architect & Cybersecurity | 00x -->
+  <text x="460" y="200" text-anchor="middle" class="mono-font" font-size="13" font-weight="bold" fill="#e0e0e0">
     <tspan fill="#ff2e49">✟</tspan>
-    <tspan fill="#ffffff"> JAVA OOP ARCHITECT </tspan>
-    <tspan fill="#66000f">|</tspan>
-    <tspan fill="#b8b8b8"> CYBERSECURITY RESEARCHER </tspan>
+    <tspan fill="#ffffff"> Java OOP Architect </tspan>
+    <tspan fill="#ff2e49">&amp;</tspan>
+    <tspan fill="#ffffff"> Cybersecurity </tspan>
+    <tspan fill="#990014">|</tspan>
+    <tspan fill="#ff1a35"> 00x </tspan>
     <tspan fill="#ff2e49">✟</tspan>
-  </text>
-
-  <!-- SUBTITLE 2: Edgy Latin / Cyber Quote -->
-  <text x="460" y="213" text-anchor="middle" class="mono-font" font-size="10.5" fill="#6e6e6e" letter-spacing="4px">
-    [ IN TENEBRIS COMPILAMUS • SECURITY IN DEPTH • EXPLOIT &amp; FORTIFY ]
   </text>
 
   <!-- Bottom System Status Tag Pill -->
