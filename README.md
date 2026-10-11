@@ -42,7 +42,7 @@
 
 <br/>
 
-########## ✟ ─── ❖ [ DOSSIER // MANIFIESTO DEL SISTEMA ] ❖ ─── ✟
+### ✟ ─── ❖ [ DOSSIER // MANIFIESTO DEL SISTEMA ] ❖ ─── ✟
 
 > *"0kMangoo."*
 
