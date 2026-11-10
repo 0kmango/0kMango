@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-00x.svg" alt="00x Pixel Art Banner" width="100%"/>
+<img src="assets/banner.svg" alt="00x Pixel Gothic Banner" width="100%"/>
 
 <br/>
 
