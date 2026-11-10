@@ -49,6 +49,8 @@
 
 ### ✟ ─── ❖ [ PILARES TÉCNICOS & ARQUITECTURA ] ❖ ─── ✟
 
+<div align="left">
+
 #### ✟ 01. NÚCLEO: PROGRAMACIÓN ORIENTADA A OBJETOS (JAVA)
 
 Mi base de ingeniería se fundamenta en el rigor de la **POO en Java**, diseñando software modular, escalable, tipado y resistente a fallos:
@@ -64,6 +66,8 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
 - **Auditoría & Pentesting:** Reconocimiento de superficies de ataque, análisis de vulnerabilidades y pruebas de penetración.
 - **Seguridad de Redes:** Análisis de tráfico con Wireshark, inspección de paquetes, escaneo proactivo con Nmap y mapping de topologías.
 - **Desarrollo Seguro:** Prevención de inyecciones, saneamiento estricto de buffers, criptografía aplicada y auditoría estática de código.
+
+</div>
 
 <br/>
 
@@ -125,7 +129,9 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
-### ✟ ─── ❖ [ EL DEMONIO DEL SISTEMA // ZeroZeroX.java ] ❖ ─── ✟
+### ✟ ─── ❖ [ EL DEMONIO DEL SISTEMA // 00x.java ] ❖ ─── ✟
+
+<div align="left">
 
 ```java
 package root.shadows;
@@ -172,18 +178,20 @@ public final class ZeroZeroX extends Architect implements ExploitAuditor {
 }
 ```
 
+</div>
+
 <br/>
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
 ### ✟ ─── ❖ [ TELEMETRÍA // RECON STATS ] ❖ ─── ✟
 
-| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0kmango&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0d0221&title_color=c77dff&text_color=e0fbfc&icon_color=00bbf9&border_color=7b2cbf&hide_border=false&cache_seconds=1800" alt="00x GitHub Stats" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0kmango&layout=compact&langs_count=8&theme=transparent&bg_color=0d0221&title_color=c77dff&text_color=e0fbfc&border_color=7b2cbf&hide_border=false&cache_seconds=1800" alt="00x Top Languages" /> |
+| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0kmango&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0d0221&title_color=ffc8dd&text_color=ffe5ec&icon_color=f4acb7&border_color=ffafcc&hide_border=false&cache_seconds=1800" alt="00x GitHub Stats" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0kmango&layout=compact&langs_count=8&theme=transparent&bg_color=0d0221&title_color=ffc8dd&text_color=ffe5ec&border_color=ffafcc&hide_border=false&cache_seconds=1800" alt="00x Top Languages" /> |
 | :---: | :---: |
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=0kmango&background=0d0221&border=7b2cbf&stroke=c77dff&ring=f15bb5&fire=00bbf9&currStreakLabel=c77dff&sideLabels=e0fbfc&dates=9d4edd&cache_seconds=1800" alt="00x GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=0kmango&background=0d0221&border=ffafcc&stroke=ffc8dd&ring=f4acb7&fire=ff8fab&currStreakLabel=ffc8dd&sideLabels=ffe5ec&dates=ffd6e0&currStreakNum=ffe5ec&sideNums=ffe5ec&cache_seconds=1800" alt="00x GitHub Streak" />
 
 <br/><br/>
 
