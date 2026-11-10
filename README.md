@@ -23,7 +23,8 @@
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
-`[ OPERATOR: 00x ]` • `[ ALIAS: 0kmango ]` • `[ BASE: JAVA POO ]` • `[ DOMAIN: CYBERSECURITY ]` • `[ STATUS: ACTIVE ]`
+`[ OPERATOR: 00x ]` • `[ ALIAS: 0kmango ]` • `[ BASE: JAVA POO ]` • `[ DOMAIN: CYBERSECURITY ]` 
+                                • `[ STATUS: ACTIVE ]`
 
 <br/>
 
