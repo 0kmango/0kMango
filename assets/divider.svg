@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" shape-rendering="crispEdges">
   <defs>
     <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7b2cbf" stop-opacity="0"/>
-      <stop offset="15%" stop-color="#7b2cbf"/>
-      <stop offset="35%" stop-color="#00bbf9"/>
-      <stop offset="50%" stop-color="#f15bb5"/>
-      <stop offset="65%" stop-color="#00bbf9"/>
-      <stop offset="85%" stop-color="#7b2cbf"/>
-      <stop offset="100%" stop-color="#7b2cbf" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#cdb4db" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#cdb4db"/>
+      <stop offset="35%" stop-color="#ffafcc"/>
+      <stop offset="50%" stop-color="#ffc8dd"/>
+      <stop offset="65%" stop-color="#ffafcc"/>
+      <stop offset="85%" stop-color="#cdb4db"/>
+      <stop offset="100%" stop-color="#cdb4db" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect x="0" y="18" width="1200" height="4" fill="url(#line)"/>
   <!-- pixel accents -->
   <g>
-    <rect x="560" y="12" width="4" height="16" fill="#c77dff"/>
-    <rect x="552" y="18" width="20" height="4" fill="#c77dff"/>
-    <rect x="540" y="16" width="4" height="4" fill="#00bbf9"/>
-    <rect x="580" y="16" width="4" height="4" fill="#00bbf9"/>
-    <rect x="560" y="6" width="4" height="4" fill="#f15bb5"/>
-    <rect x="560" y="30" width="4" height="4" fill="#f15bb5"/>
-    <rect x="528" y="18" width="4" height="4" fill="#f15bb5"/>
-    <rect x="592" y="18" width="4" height="4" fill="#f15bb5"/>
-    <rect x="516" y="18" width="4" height="4" fill="#00bbf9"/>
-    <rect x="604" y="18" width="4" height="4" fill="#00bbf9"/>
-    <rect x="504" y="18" width="4" height="4" fill="#7b2cbf"/>
-    <rect x="616" y="18" width="4" height="4" fill="#7b2cbf"/>
+    <rect x="560" y="12" width="4" height="16" fill="#e0b1cb"/>
+    <rect x="552" y="18" width="20" height="4" fill="#e0b1cb"/>
+    <rect x="540" y="16" width="4" height="4" fill="#f4acb7"/>
+    <rect x="580" y="16" width="4" height="4" fill="#f4acb7"/>
+    <rect x="560" y="6" width="4" height="4" fill="#ffc8dd"/>
+    <rect x="560" y="30" width="4" height="4" fill="#ffc8dd"/>
+    <rect x="528" y="18" width="4" height="4" fill="#ffafcc"/>
+    <rect x="592" y="18" width="4" height="4" fill="#ffafcc"/>
+    <rect x="516" y="18" width="4" height="4" fill="#f4acb7"/>
+    <rect x="604" y="18" width="4" height="4" fill="#f4acb7"/>
+    <rect x="504" y="18" width="4" height="4" fill="#cdb4db"/>
+    <rect x="616" y="18" width="4" height="4" fill="#cdb4db"/>
     <!-- small diamonds -->
-    <rect x="480" y="18" width="4" height="4" fill="#9d4edd"/>
-    <rect x="640" y="18" width="4" height="4" fill="#9d4edd"/>
+    <rect x="480" y="18" width="4" height="4" fill="#e0b1cb"/>
+    <rect x="640" y="18" width="4" height="4" fill="#e0b1cb"/>
   </g>
 </svg>
