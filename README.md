@@ -23,8 +23,7 @@
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
-`[ OPERATOR: 00x ]` • `[ ALIAS: 0kmango ]` • `[ BASE: JAVA POO ]` • `[ DOMAIN: CYBERSECURITY ]` 
-                                • `[ STATUS: ACTIVE ]`
+`[ OPERATOR: 00x ]` • `[ ALIAS: 0kmango ]` • `[ BASE: JAVA POO ]` • `[ DOMAIN: CYBERSECURITY ]` • `[ STATUS: ACTIVE ]`
 
 <br/>
 
@@ -42,6 +41,8 @@
 ✟ CORE LANGUAGE : Java (JVM Ecosystem)
 ✟ SPECIALTY     : Ciberseguridad Ofensiva & Defensiva, Pentesting, Hardening
 ✟ ENVIRONMENT   : Linux (Kali Linux / Arch)
+✟ PALETTE       : Purple // Celeste // Pink
+✟ MOTIF         : Pixel Butterflies & Gothic Crosses
 ```
 
 </div>
@@ -81,20 +82,23 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
 | PROYECTO | DESCRIPCIÓN | STACK | ESTADO |
 | :--- | :--- | :--- | :---: |
 | [**MangoBot**](https://github.com/0kmango/MangoBot) | Bot de Discord musical con funciones adicionales e IA integrada | `Python` `Discord API` | 🟢 **Activo** |
-| [**MangoRed**](https://github.com/0kmango/MangoRed) | Monitor Doméstico de Red Local para Linux y Windows | `Python / JavaScript` `Seguridad` `Redes` | 🟢 **Activo** |
+| [**MangoRed**](https://github.com/0kmango/MangoRed) | Monitor Doméstico de Red Local para Kali Linux | `Python / JavaScript` `Seguridad` `Redes` | 🟢 **Activo** |
 
 <br/>
 
 ```text
-✟ ───────────────────────────────────────────────────────────── ✟
-                 ██████╗  ██████╗ ██╗  ██╗
-                ██╔═████╗██╔═████╗╚██╗██╔╝
-                ██║██╔██║██║██╔██║ ╚███╔╝ 
-                ████╔╝██║████╔╝██║ ██╔██╗ 
-                ╚██████╔╝╚██████╔╝██╔╝ ██╗
-                 ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-         ⸸  J A V A   O O P   //   S E C U R I T Y  ⸸
-✟ ───────────────────────────────────────────────────────────── ✟
+✟ ─────────────────────────────────────────────────────────── ✟
+
+              ██████╗  ██████╗ ██╗  ██╗
+             ██╔═████╗██╔═████╗╚██╗██╔╝
+             ██║██╔██║██║██╔██║ ╚███╔╝
+             ████╔╝██║████╔╝██║ ██╔██╗
+             ╚██████╔╝╚██████╔╝██╔╝ ██╗
+              ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+
+        ⸸  J A V A   O O P   //   S E C U R I T Y  ⸸
+
+✟ ─────────────────────────────────────────────────────────── ✟
 ```
 
 <br/>
@@ -145,6 +149,7 @@ import architecture.oop.CleanArchitecture;
 /**
  * ✟ 00x // Autonomous Sentinel Daemon ✟
  * Base: Object-Oriented Architecture & Security Analysis
+ * Aesthetic: Pixel Butterflies & Gothic Crosses
  */
 public final class ZeroZeroX extends Architect implements ExploitAuditor {
 
