@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" shape-rendering="crispEdges">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0221"/>
+      <stop offset="50%" stop-color="#190a33"/>
+      <stop offset="100%" stop-color="#0a1628"/>
+    </linearGradient>
+    <pattern id="pxgrid" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="none"/>
+      <rect x="7" y="7" width="1" height="1" fill="#ffffff" opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#pxgrid)"/>
+
+  <!-- border frame -->
+  <rect x="8" y="8" width="1184" height="284" fill="none" stroke="#7b2cbf" stroke-width="4"/>
+  <rect x="16" y="16" width="1168" height="268" fill="none" stroke="#00bbf9" stroke-width="2"/>
+  <!-- corner pixels -->
+  <g fill="#f15bb5">
+    <rect x="8" y="8" width="16" height="16"/><rect x="1176" y="8" width="16" height="16"/>
+    <rect x="8" y="276" width="16" height="16"/><rect x="1176" y="276" width="16" height="16"/>
+  </g>
+  <g fill="#00bbf9">
+    <rect x="24" y="8" width="8" height="8"/><rect x="8" y="24" width="8" height="8"/>
+    <rect x="1168" y="8" width="8" height="8"/><rect x="1184" y="24" width="8" height="8"/>
+    <rect x="24" y="284" width="8" height="8"/><rect x="8" y="268" width="8" height="8"/>
+    <rect x="1168" y="284" width="8" height="8"/><rect x="1184" y="268" width="8" height="8"/>
+  </g>
+
+  <!-- gothic crosses (pixel) left and right -->
+  <g id="cross">
+    <rect x="60" y="60" width="8" height="40" fill="#c77dff"/>
+    <rect x="52" y="72" width="24" height="8" fill="#c77dff"/>
+    <rect x="60" y="52" width="8" height="8" fill="#f15bb5"/>
+    <rect x="44" y="72" width="8" height="8" fill="#00bbf9"/>
+    <rect x="76" y="72" width="8" height="8" fill="#00bbf9"/>
+    <rect x="60" y="100" width="8" height="8" fill="#f15bb5"/>
+  </g>
+  <g transform="translate(1072,0)">
+    <rect x="60" y="60" width="8" height="40" fill="#c77dff"/>
+    <rect x="52" y="72" width="24" height="8" fill="#c77dff"/>
+    <rect x="60" y="52" width="8" height="8" fill="#f15bb5"/>
+    <rect x="44" y="72" width="8" height="8" fill="#00bbf9"/>
+    <rect x="76" y="72" width="8" height="8" fill="#00bbf9"/>
+    <rect x="60" y="100" width="8" height="8" fill="#f15bb5"/>
+  </g>
+  <g transform="translate(60,170) scale(0.8)">
+    <rect x="60" y="60" width="8" height="40" fill="#9d4edd"/>
+    <rect x="52" y="72" width="24" height="8" fill="#9d4edd"/>
+    <rect x="60" y="52" width="8" height="8" fill="#00bbf9"/>
+    <rect x="44" y="72" width="8" height="8" fill="#f15bb5"/>
+    <rect x="76" y="72" width="8" height="8" fill="#f15bb5"/>
+  </g>
+  <g transform="translate(1012,170) scale(0.8)">
+    <rect x="60" y="60" width="8" height="40" fill="#9d4edd"/>
+    <rect x="52" y="72" width="24" height="8" fill="#9d4edd"/>
+    <rect x="60" y="52" width="8" height="8" fill="#00bbf9"/>
+    <rect x="44" y="72" width="8" height="8" fill="#f15bb5"/>
+    <rect x="76" y="72" width="8" height="8" fill="#f15bb5"/>
+  </g>
+
+  <!-- Pixel butterfly left -->
+  <g transform="translate(170,70) scale(4)">
+    <!-- wings -->
+    <rect x="0" y="2" width="3" height="2" fill="#f15bb5"/>
+    <rect x="1" y="1" width="3" height="1" fill="#ff8fab"/>
+    <rect x="1" y="4" width="2" height="2" fill="#c77dff"/>
+    <rect x="0" y="6" width="2" height="2" fill="#00bbf9"/>
+    <rect x="2" y="6" width="1" height="1" fill="#9d4edd"/>
+    <!-- right wing -->
+    <rect x="6" y="2" width="3" height="2" fill="#f15bb5"/>
+    <rect x="5" y="1" width="3" height="1" fill="#ff8fab"/>
+    <rect x="6" y="4" width="2" height="2" fill="#c77dff"/>
+    <rect x="7" y="6" width="2" height="2" fill="#00bbf9"/>
+    <rect x="6" y="6" width="1" height="1" fill="#9d4edd"/>
+    <!-- body -->
+    <rect x="4" y="1" width="1" height="7" fill="#e0aaff"/>
+    <rect x="3" y="0" width="1" height="1" fill="#00bbf9"/>
+    <rect x="5" y="0" width="1" height="1" fill="#00bbf9"/>
+  </g>
+
+  <!-- Pixel butterfly right -->
+  <g transform="translate(960,60) scale(4)">
+    <rect x="0" y="2" width="3" height="2" fill="#00bbf9"/>
+    <rect x="1" y="1" width="3" height="1" fill="#90e0ef"/>
+    <rect x="1" y="4" width="2" height="2" fill="#9d4edd"/>
+    <rect x="0" y="6" width="2" height="2" fill="#f15bb5"/>
+    <rect x="2" y="6" width="1" height="1" fill="#c77dff"/>
+    <rect x="6" y="2" width="3" height="2" fill="#00bbf9"/>
+    <rect x="5" y="1" width="3" height="1" fill="#90e0ef"/>
+    <rect x="6" y="4" width="2" height="2" fill="#9d4edd"/>
+    <rect x="7" y="6" width="2" height="2" fill="#f15bb5"/>
+    <rect x="6" y="6" width="1" height="1" fill="#c77dff"/>
+    <rect x="4" y="1" width="1" height="7" fill="#e0aaff"/>
+    <rect x="3" y="0" width="1" height="1" fill="#f15bb5"/>
+    <rect x="5" y="0" width="1" height="1" fill="#f15bb5"/>
+  </g>
+
+  <!-- small butterfly bottom -->
+  <g transform="translate(250,210) scale(3)">
+    <rect x="0" y="2" width="3" height="2" fill="#c77dff"/>
+    <rect x="1" y="1" width="3" height="1" fill="#e0aaff"/>
+    <rect x="1" y="4" width="2" height="2" fill="#f15bb5"/>
+    <rect x="0" y="6" width="2" height="1" fill="#00bbf9"/>
+    <rect x="6" y="2" width="3" height="2" fill="#c77dff"/>
+    <rect x="5" y="1" width="3" height="1" fill="#e0aaff"/>
+    <rect x="6" y="4" width="2" height="2" fill="#f15bb5"/>
+    <rect x="7" y="6" width="2" height="1" fill="#00bbf9"/>
+    <rect x="4" y="1" width="1" height="6" fill="#ffd6ff"/>
+    <rect x="3" y="0" width="1" height="1" fill="#00bbf9"/>
+    <rect x="5" y="0" width="1" height="1" fill="#00bbf9"/>
+  </g>
+  <g transform="translate(900,215) scale(3)">
+    <rect x="0" y="2" width="3" height="2" fill="#f15bb5"/>
+    <rect x="1" y="1" width="3" height="1" fill="#ff8fab"/>
+    <rect x="1" y="4" width="2" height="2" fill="#00bbf9"/>
+    <rect x="0" y="6" width="2" height="1" fill="#c77dff"/>
+    <rect x="6" y="2" width="3" height="2" fill="#f15bb5"/>
+    <rect x="5" y="1" width="3" height="1" fill="#ff8fab"/>
+    <rect x="6" y="4" width="2" height="2" fill="#00bbf9"/>
+    <rect x="7" y="6" width="2" height="1" fill="#c77dff"/>
+    <rect x="4" y="1" width="1" height="6" fill="#ffd6ff"/>
+    <rect x="3" y="0" width="1" height="1" fill="#f15bb5"/>
+    <rect x="5" y="0" width="1" height="1" fill="#f15bb5"/>
+  </g>
+
+  <!-- ASCII 00X logo center -->
+  <g font-family="'Courier New', Courier, monospace" font-size="28" font-weight="700" text-anchor="middle">
+    <text x="600" y="104" fill="#c77dff" xml:space="preserve"> ██████╗  ██████╗ ██╗  ██╗</text>
+    <text x="600" y="132" fill="#9d4edd" xml:space="preserve">██╔═████╗██╔═████╗╚██╗██╔╝</text>
+    <text x="600" y="160" fill="#00bbf9" xml:space="preserve">██║██╔██║██║██╔██║ ╚███╔╝ </text>
+    <text x="600" y="188" fill="#f15bb5" xml:space="preserve">████╔╝██║████╔╝██║ ██╔██╗ </text>
+    <text x="600" y="216" fill="#ff8fab" xml:space="preserve">╚██████╔╝╚██████╔╝██╔╝ ██╗</text>
+    <text x="600" y="244" fill="#e0aaff" xml:space="preserve"> ╚═════╝  ╚═════╝ ╚═╝  ╚═╝</text>
+  </g>
+
+  <!-- subtitle -->
+  <text x="600" y="282" font-family="'Courier New', Courier, monospace" font-size="18" fill="#90e0ef" text-anchor="middle" letter-spacing="6">✟ 00x | okMango ✟</text>
+</svg>
