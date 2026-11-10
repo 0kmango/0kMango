@@ -5,12 +5,16 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=%E2%9C%9F+00x+%7C%7C+IN+TENEBRIS+COMPILAMUS+%E2%9C%9F;%E2%80%A0+JAVA+OBJECT-ORIENTED+ARCHITECT+%E2%80%A0;%E2%9C%9F+CYBERSECURITY+%26+ETHICAL+HACKING+%E2%9C%9F;%E2%80%A0+PIXEL+BUTTERFLIES+IN+THE+ABYSS+%2F%2F+0kmango+%E2%80%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=%E2%99%B1+00x+%7C%7C+IN+TENEBRIS+COMPILAMUS+%E2%99%B1;%E2%80%A0+JAVA+OBJECT-ORIENTED+ARCHITECT+%E2%80%A0;%E2%99%B1+CYBERSECURITY+%26+ETHICAL+HACKING+%E2%99%B1;%E2%80%A0+PIXEL+BUTTERFLIES+IN+THE+ABYSS+%2F%2F+0kmango+%E2%80%A0" alt="Typing SVG" />
 </a>
 
 <br/>
 
-**✟ 𝕹𝖀𝕷𝕷𝖀𝕸 𝕸𝕬𝕲𝕹𝖀𝕸 𝕴𝕹𝕲𝕰𝕹𝕴𝖀𝕸 𝕾𝕴𝕹𝕰 𝕸𝕴𝖃𝕿𝖀𝖁𝕬 𝕯𝕰𝕸𝕰𝕹𝕿𝕴𝕬𝕰 ✟**
+꒰ঌ ⋆.˚⟡.・
+
+<br/>
+
+**♱ 𝕹𝖀𝕷𝕷𝖀𝕸 𝕸𝕬𝕲𝕹𝖀𝕸 𝕴𝕹𝕲𝕰𝕹𝕴𝖀𝕸 𝕾𝕴𝕹𝕰 𝕸𝕴𝖃𝕿𝖀𝖁𝕬 𝕯𝕰𝕸𝕰𝕹𝕿𝕴𝕬𝕰 ♱**
 
 <br/>
 
@@ -27,7 +31,9 @@
 
 <br/>
 
-### ✟ ─── ❖ [ DOSSIER // MANIFIESTO DEL SISTEMA ] ❖ ─── ✟
+˚₊‧꒰ა ິ໒꒱ ‧₊˚
+
+### ♱ ─── ❖ [ DOSSIER // MANIFIESTO DEL SISTEMA ] ❖ ─── ♱
 
 <div align="left">
 
@@ -51,7 +57,9 @@
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
-### ✟ ─── ❖ [ PILARES TÉCNICOS & ARQUITECTURA ] ❖ ─── ✟
+———···₊⊹ 🪽 ⊹₊···———
+
+### ♱ ─── ❖ [ PILARES TÉCNICOS & ARQUITECTURA ] ❖ ─── ♱
 
 <div align="left">
 
@@ -77,7 +85,7 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
-### ✟ ─── ❖ [ PROYECTOS // SISTEMA EN OPERACIÓN ] ❖ ─── ✟
+### ♱ ─── ❖ [ PROYECTOS // SISTEMA EN OPERACIÓN ] ❖ ─── ♱
 
 | PROYECTO | DESCRIPCIÓN | STACK | ESTADO |
 | :--- | :--- | :--- | :---: |
@@ -105,7 +113,9 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
-### ✟ ─── ❖ [ ARSENAL & HERRAMIENTAS // DARK STACK ] ❖ ─── ✟
+˚₊‧꒰ა ິ໒꒱ ‧₊˚
+
+### ♱ ─── ❖ [ ARSENAL & HERRAMIENTAS // DARK STACK ] ❖ ─── ♱
 
 #### ✟ LENGUAJE NÚCLEO & ARQUITECTURA POO ✟
 
@@ -136,7 +146,9 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
-### ✟ ─── ❖ [ EL DEMONIO DEL SISTEMA // 00x.java ] ❖ ─── ✟
+———···₊⊹ 🪽 ⊹₊···———
+
+### ♱ ─── ❖ [ EL DEMONIO DEL SISTEMA // 00x.java ] ❖ ─── ♱
 
 <div align="left">
 
@@ -191,7 +203,9 @@ public final class ZeroZeroX extends Architect implements ExploitAuditor {
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
-### ✟ ─── ❖ [ TELEMETRÍA // RECON STATS ] ❖ ─── ✟
+### ♱ ─── ❖ [ TELEMETRÍA // RECON STATS ] ❖ ─── ♱
+
+꒰ঌ ⋆.˚⟡.・
 
 | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0kmango&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0d0221&title_color=ffc8dd&text_color=ffe5ec&icon_color=f4acb7&border_color=ffafcc&hide_border=false&cache_seconds=1800" alt="00x GitHub Stats" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0kmango&layout=compact&langs_count=8&theme=transparent&bg_color=0d0221&title_color=ffc8dd&text_color=ffe5ec&border_color=ffafcc&hide_border=false&cache_seconds=1800" alt="00x Top Languages" /> |
 | :---: | :---: |
@@ -204,7 +218,9 @@ public final class ZeroZeroX extends Architect implements ExploitAuditor {
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
-### ✟ ─── ❖ [ TRANSMISIÓN & CONTACTO // ROOT TERMINAL ] ❖ ─── ✟
+———···₊⊹ 🪽 ⊹₊···———
+
+### ♱ ─── ❖ [ TRANSMISIÓN & CONTACTO // ROOT TERMINAL ] ❖ ─── ♱
 
 *« Las conexiones seguras no dejan rastro. Para comunicaciones directas o intercambio de llaves: »*
 
@@ -221,8 +237,10 @@ public final class ZeroZeroX extends Architect implements ExploitAuditor {
 <br/><br/>
 
 ```text
-✟ 00x // 0kmango • ALL RIGHTS RESERVED IN THE ABYSS • 2026 ✟
+♱ 00x // 0kmango • ALL RIGHTS RESERVED IN THE ABYSS • 2026 ♱
 ```
+
+˚₊‧꒰ა ິ໒꒱ ‧₊˚
 
 <img src="assets/divider.svg" alt="divider" width="100%"/>
 
