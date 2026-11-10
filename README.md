@@ -81,7 +81,7 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
 | PROYECTO | DESCRIPCIÓN | STACK | ESTADO |
 | :--- | :--- | :--- | :---: |
 | [**MangoBot**](https://github.com/0kmango/MangoBot) | Bot de Discord musical con funciones adicionales e IA integrada | `Python` `Discord API` | 🟢 **Activo** |
-| [**MangoRed**](https://github.com/0kmango/MangoRed) | Monitor Doméstico de Red Local para Kali Linux | `Python / JavaScript` `Seguridad` `Redes` | 🟢 **Activo** |
+| [**MangoRed**](https://github.com/0kmango/MangoRed) | Monitor Doméstico de Red Local para Linux y Windows | `Python / JavaScript` `Seguridad` `Redes` | 🟢 **Activo** |
 
 <br/>
 
