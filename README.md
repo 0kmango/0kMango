@@ -29,6 +29,8 @@
 
 ### ✟ ─── ❖ [ DOSSIER // MANIFIESTO DEL SISTEMA ] ❖ ─── ✟
 
+<div align="left">
+
 > *"0kMangoo."*
 
 ```text
@@ -42,6 +44,8 @@
 ✟ PALETTE       : Purple // Celeste // Pink
 ✟ MOTIF         : Pixel Butterflies & Gothic Crosses
 ```
+
+</div>
 
 <br/>
 
